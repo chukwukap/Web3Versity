@@ -9,7 +9,7 @@ function MarketingHeader() {
       <div className="container mx-auto flex items-center justify-between px-4 md:px-6">
         <div className="flex items-center gap-2">
           <MountainIcon className="h-6 w-6 text-gray-400" />
-          <span className="text-lg font-semibold">Web3 Academy</span>
+          <span className="text-lg font-semibold">Web3Versity</span>
         </div>
         <WalletConnector />
       </div>
